@@ -23,6 +23,12 @@ function App() {
 				onClick={() => setMenuOpen(!menuOpen)}>
 				☰
 			</button>
+			<button
+				className='cart-icon'
+				aria-label='Go to checkout'
+				onClick={() => navigate('/checkout')}>
+				🛒
+			</button>
 
 			{/* Dropdown menu when open */}
 			{menuOpen && (
