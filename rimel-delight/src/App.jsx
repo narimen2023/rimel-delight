@@ -51,7 +51,7 @@ function App() {
 			{/* Main content */}
 			<main className='content'>
 				<img src='/logo.png' alt='Rimel Delight Logo' className='logo' />
-				<h1>Rimel Delight</h1>
+				<h1 className='logo-text'>Rimel Delight</h1>
 				<p className='tagline'>Authentic taste, made with love 🍰</p>
 				<button className='order-btn'>Order Here</button>
 			</main>

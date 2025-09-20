@@ -175,3 +175,15 @@
 	); /* adjust opacity & color to match your palette */
 	z-index: -1;
 }
+.logo-text {
+	font-family: 'Great Vibes', cursive;
+	font-size: 48px; /* You can increase this if needed */
+	color: #ffd700; /* Gold */
+
+	font-size: 80px;
+}
+.tagline {
+	font-family: 'Great Vibes', cursive;
+	font-size: 30px; /* You can increase this if needed */
+	color: #ffd700; /* Gold */
+}
